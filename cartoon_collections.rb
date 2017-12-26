@@ -20,7 +20,7 @@ def find_the_cheese(arr)
     end
     else
     i++
-  end
+
     end
     
 end
